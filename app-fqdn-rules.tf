@@ -6,7 +6,7 @@ locals {
       "aviatrix.com"   = "80"
       "*.ubuntu.com"   = "80"
       "*.ubuntu.com"   = "443"
-      "*.ubuntu.com"   = "8443"
+      "*.centos.com"   = "80"
     }
     udp = {
       "dns.google.com" = "53"
